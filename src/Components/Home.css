@@ -1,0 +1,11 @@
+img {
+  display: inline;
+  position: absolute;
+  z-index: 1;
+}
+
+#img3 {
+  transform: scale(7.9);
+  left: 45%;
+  top: 44%;
+}
